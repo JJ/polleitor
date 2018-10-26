@@ -1,6 +1,6 @@
 # Polleitor
 _Version 0.1.1_    
-[![Build Status](https://travis-ci.org/oslugr/polleitor.svg?branch=master)](https://travis-ci.org/oslugr/polleitor)
+[![Build Status](https://travis-ci.com/JJ/polleitor.svg?branch=master)](https://travis-ci.org/jj/polleitor)
 [![Coverage Status](https://coveralls.io/repos/github/oslugr/polleitor/badge.svg?branch=master)](https://coveralls.io/github/oslugr/polleitor?branch=master)
 
 Sistema cliente-servidor para crear widgets de encuestas.
@@ -44,12 +44,12 @@ npm install -g groc
 groc
 ```
 
-[Click](https://oslugr.github.io/polleitor) para ver la documentación online
+[Click](https://jj.github.io/polleitor) para ver la documentación online
 
 Los ficheros principales son:
 
-* [Rutas](http://oslugr.github.io/polleitor/routes.html)
-* [Configuración](http://oslugr.github.io/polleitor/config.html),
+* [Rutas](http://jj.github.io/polleitor/routes.html)
+* [Configuración](http://jj.github.io/polleitor/config.html),
   donde efectivamente se crean las encuestas
 
 
@@ -65,5 +65,5 @@ Se accede al servicio mediante una API REST:
 
 ## Quien ha montado esto
 
-> Desarrollado por la Oficina de Software Libre bajo licencia MIT
-> Documentación completa en <https://oslugr.github.io/polleitor>
+> Desarrollado por [JJ Merelo, Germán Martínez y Andrés Ortiz](https://github.com/JJ/polleitor/graphs/contributors) bajo licencia MIT
+> Documentación completa en <https://jj.github.io/polleitor>
