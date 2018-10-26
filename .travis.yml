@@ -4,6 +4,7 @@ language: node_js
 # Versiones con las que correr los tests
 node_js:
   - stable
+  - 8
   - 6.1.0
   - 5.5.0
   - 4.4.3
@@ -15,4 +16,4 @@ script:
   - npm test
 
 after_success:
-        - npm run coveralls
+  - npm run coveralls

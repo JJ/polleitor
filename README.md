@@ -1,6 +1,6 @@
 # Polleitor
 _Version 0.1.1_    
-[![Build Status](https://travis-ci.com/JJ/polleitor.svg?branch=master)](https://travis-ci.org/jj/polleitor)
+[![Build Status](https://travis-ci.com/JJ/polleitor.svg?branch=master)](https://travis-ci.com/JJ/polleitor)
 [![Coverage Status](https://coveralls.io/repos/github/oslugr/polleitor/badge.svg?branch=master)](https://coveralls.io/github/oslugr/polleitor?branch=master)
 
 Sistema cliente-servidor para crear widgets de encuestas.
